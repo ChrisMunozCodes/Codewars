@@ -25,6 +25,7 @@ function DNAtoRNA(dna) {
           finalArr.push(splitedDna[i])
         }
     }
+    
      return finalArr.join('')
 
 }
