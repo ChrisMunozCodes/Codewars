@@ -8,6 +8,7 @@ function arrayDiff(a, b) {
   
     // Rest of code
     
+    
     //variable to store the final numbers to return
     const finalArr = []
     //1. loop through the first array
