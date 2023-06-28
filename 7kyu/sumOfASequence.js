@@ -6,8 +6,6 @@ const sequenceSum = (begin, end, step) => {
   
     let arrList = []
 
-
-    
     for(let i = begin; i <= end; i+=step) {
         arrList.push(i)
     }
