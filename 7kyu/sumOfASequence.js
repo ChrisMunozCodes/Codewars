@@ -3,11 +3,9 @@ const sequenceSum = (begin, end, step) => {
     if(begin > end) {
       return 0
     } 
-    
   
     let arrList = []
     
-    //
     for(let i = begin; i <= end; i+=step) {
         arrList.push(i)
     }
