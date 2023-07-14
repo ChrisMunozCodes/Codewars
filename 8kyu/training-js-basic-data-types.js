@@ -24,7 +24,6 @@ function equal3(){
   return a * b;
 }
 
-
 function equal4(){
   let a =  v4,
       b =  v5
