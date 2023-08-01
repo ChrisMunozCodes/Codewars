@@ -18,6 +18,7 @@ function equal2(){
   return a - b;
 }
 
+
 function equal3(){
   let a =  v5,
       b =  v1
